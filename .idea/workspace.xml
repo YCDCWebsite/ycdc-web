@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="241b76ef-cce8-4b16-9fa9-57114d74d66b" name="Default Changelist" comment="资源新图片" />
+    <list default="true" id="241b76ef-cce8-4b16-9fa9-57114d74d66b" name="Default Changelist" comment="资源新图片">
+      <change afterPath="$PROJECT_DIR$/contact-231108-1320.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/tools/map-location.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,17 +48,17 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="TODO_SCOPE" value="All Places" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/img/180" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img/tools" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img/tools" />
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/img/180" />
       <recent name="$PROJECT_DIR$/img/178" />
       <recent name="$PROJECT_DIR$/img" />
-      <recent name="$PROJECT_DIR$/css" />
-      <recent name="$PROJECT_DIR$/images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/images/projects/127" />
@@ -84,7 +89,12 @@
       <workItem from="1699272966011" duration="2201000" />
       <workItem from="1699275196814" duration="136000" />
       <workItem from="1699275640900" duration="22107000" />
-      <workItem from="1699403803405" duration="792000" />
+      <workItem from="1699403803405" duration="2110000" />
+      <workItem from="1699420326059" duration="194000" />
+      <workItem from="1699420528072" duration="26000" />
+      <workItem from="1699420587172" duration="64000" />
+      <workItem from="1699420655809" duration="7000" />
+      <workItem from="1699420683382" duration="431000" />
     </task>
     <task id="LOCAL-00001" summary="资源提交">
       <created>1695688819666</created>
@@ -205,7 +215,14 @@
       <option name="project" value="LOCAL" />
       <updated>1699403936360</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="资源新图片">
+      <created>1699404718049</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1699404718050</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
