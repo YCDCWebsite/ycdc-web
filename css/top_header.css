@@ -1,0 +1,176 @@
+/* 头部盒子 */
+.ycc-top-header-box{
+    position: fixed;
+    top:0;
+    border-width: 0;
+    border-color: transparent;
+    background-color: #2B2B2B;
+    opacity: 0.95;
+    min-height: 90px;
+    width: 100%;
+    z-index: 83;
+    display: flex;
+}
+
+.ycc-tablet-top-header-box{
+    position: fixed;
+    top:0;
+    border-width: 0;
+    border-color: transparent;
+    background-color: #2B2B2B;
+    opacity: 0.95;
+    min-height: 90px;
+    width: 100%;
+    z-index: 83;
+    display: flex;
+    justify-content: space-between;
+}
+.ycc-tablet-top-header-link-a{
+    display: block;
+    color: #9D9D9D !important;
+    font-size: 14px;
+    height: 90px;
+    line-height: 100px;
+    text-decoration: none !important;
+    width: 25%;
+    border-right: 1px solid #494949;
+    text-align: center;
+    background-color: #2E2E2E;
+    border-top: 3px solid #2E2E2E ;
+}
+
+
+
+
+/* 头部logo */
+.ycc-top-header-logo{
+    margin-top: 17px;
+    margin-left: 10px;
+    margin-right: 200px;
+}
+/* 头部链接 */
+.ycc-top-header-link-a{
+    display: block;
+    color: #9D9D9D !important;
+    font-size: 14px;
+    height: 90px;
+    line-height: 100px;
+    text-decoration: none !important;
+    width: 182px;
+    border-right: 1px solid #494949;
+    text-align: center;
+    background-color: #2E2E2E;
+    border-top: 3px solid #2E2E2E ;
+}
+.ycc-top-header-link-a:hover{
+    border-top: 3px solid #2EEB91;
+}
+
+.ycc-copyright{position: fixed;left: 60px;bottom: 20px;}
+
+
+
+/* about 页面 */
+.ycc-about-content{
+    display: flex;
+    justify-content: center;
+    margin-top: 250px;
+    margin-bottom: 50px;
+}
+.ycc-about-mid{
+   width: 120px;
+}
+.ycc-about-title{
+    font-size: 22px;
+    color: #FFFFFF;
+    margin-bottom: 20px;
+}
+.ycc-about-icon-each{
+    display: flex;
+
+}
+.ycc-about-icon-each-one{
+    text-align: center;
+    width: 240px;
+    margin-bottom: 40px;
+}
+
+.ycc-about-icon-each-one p{
+    text-align: center;
+    color: #FFFFFF;
+    font-size: 14px;
+    margin-top: 20px;
+}
+
+/* contact 页面 */
+.ycc-contact-img{
+    z-index: 3;
+    height: 397px;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+.ycc-contact-letter{
+    position: absolute;
+    top:450px;
+    text-align: center;
+    width: 100%;
+    color: #E0E0E0;
+    font-size: 12px;
+    letter-spacing: 2px;
+    line-height: 20px;
+}
+.ycc-contact-letter-title{
+    color: #A9A9A9;
+    margin-top: 20px;
+}
+
+/* 【residential】【commercial】 project 页面 */
+.ycc-project-page{
+    min-height: 1000px!important;
+}
+.ycc-project-guide{
+    margin-top: 120px;
+    color:#FFFF;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.ycc-project-box{
+    /*margin: 150px 100px;*/
+    /*margin-top: 150px;*/
+    display: flex;
+    flex-wrap: wrap;
+}
+.ycc-project-link{
+    width: 300px;
+    height: 340px;
+    /*margin-right: 130px;*/
+    overflow: hidden;/*这个属性是关键*/
+    margin-right: 20px;
+    text-decoration: none !important;
+}
+.ycc-project-link img{
+    height: 180px;
+    width: 300px;
+    /*transition: all 0.2s;*/
+    transition: all .5s ease .1s;
+    object-fit: cover;
+}
+.ycc-project-link img:hover{
+    transform: scale(1.05);
+}
+.ycc-project-txt{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 14px;
+    color: #FFFFFF;
+}
+
+
+
+/* 图片样式 */
+.ycc-img-container{width: 1024px;margin-top:120px;}
+
+.ycc-img{position: absolute;object-fit:cover;cursor:pointer !important;border-radius: 2px;}
+
+
