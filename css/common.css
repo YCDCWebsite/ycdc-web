@@ -17,8 +17,9 @@ html {
 }
 .m-logo{
     /*border: 1px solid red;*/
-    margin-top: 25px;
-    filter: drop-shadow(0 0 0 #000);
+    margin-top: 20px;
+    /*filter: drop-shadow(0 0 0 #000);*/
+    height:50px;
 }
 .m-link-a{
     display: block;
@@ -38,6 +39,33 @@ html {
 
 
 .m-contact-box{ width:100%;text-align: center}
+
+
+/* ipad phone */
+.p-menus{
+    position: fixed;
+    top:0;
+    width: 100%;
+    display: flex;
+    padding-left: 2vw;
+    height: 50px;
+    z-index: 2;
+    background-color: #FFF;
+}
+.p-logo{
+    margin-top: 12px;
+    height:30px;
+}
+.p-link-a{
+    display: block;
+    color: #333 !important;
+    font-size: 14px;
+    height: 60px;
+    line-height: 60px;
+    text-decoration: none !important;
+    width: 112px;
+    text-align: center;
+}
 
 
 
