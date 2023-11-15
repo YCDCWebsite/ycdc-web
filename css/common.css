@@ -82,7 +82,7 @@ html {
         图3 左边距离 50vw
         图4 左边距离 75vw
  */
-.m-img{object-fit:cover;position: absolute;cursor: pointer;border-radius: 0.2vw;background-color: #aaa;}
+.m-img{object-fit:cover;position: absolute;cursor: pointer;border-radius: 0.2vw;background-color: #aaa;zoom:0.99;}
 .m-192-01 { /*height: 30vw;*/width: 49vw;top: 30vw;left: 0}
 
 .m-191-04 {width: 24vw;top: 4vw;left: 50vw;}
