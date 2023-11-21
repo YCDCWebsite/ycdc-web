@@ -19,7 +19,7 @@ html {
     /*border: 1px solid red;*/
     margin-top: 20px;
     /*filter: drop-shadow(0 0 0 #000);*/
-    height:50px;
+    height:40px;
 }
 .m-link-a{
     display: block;
@@ -53,8 +53,8 @@ html {
     background-color: #FFF;
 }
 .p-logo{
-    margin-top: 12px;
-    height:30px;
+    margin-top: 18px;
+    height:20px;
 }
 .p-link-a{
     display: block;
@@ -63,7 +63,7 @@ html {
     height: 60px;
     line-height: 60px;
     text-decoration: none !important;
-    width: 112px;
+    width: 120px;
     text-align: center;
 }
 
