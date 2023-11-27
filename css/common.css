@@ -10,36 +10,39 @@ html {
     width: 100%;
     display: flex;
     padding-left: 2vw;
-    height: 100px;
+    height: 6.5vw;
     /*border: 1px solid red;*/
     z-index: 2;
     background-color: #FFF;
 }
 .m-logo{
-    /*border: 1px solid red;*/
-    margin-top: 20px;
-    /*filter: drop-shadow(0 0 0 #000);*/
-    height:40px;
+    height:3.6vw;
 }
 .m-link-a{
+    margin-top: 1.1vw;
     display: block;
     color: #333 !important;
-    font-size: 18px;
-    height: 90px;
-    line-height: 100px;
+    height: 6.5vw;
+    line-height: 6.5vw;
     text-decoration: none !important;
-    width: 240px;
-    text-align: center;
 }
 .m-link-a:hover{
     color: #2EEB91 !important;
     font-weight: bold;
-    /*border-bottom: 3px solid #2EEB91;*/
+}
+.m-link-a-logo{
+    width: 44vw;
+}
+.m-link-a-project{
+    font-size: 1.4vw;
+    width: 25vw;
+}
+.m-link-a-contact{
+    font-size: 1.4vw;
+    width: 12vw;
 }
 
-
 .m-contact-box{ width:100%;text-align: center}
-
 
 /* ipad phone */
 .p-menus{
@@ -82,7 +85,7 @@ html {
         图3 左边距离 50vw
         图4 左边距离 75vw
  */
-.m-img{object-fit:cover;position: absolute;cursor: pointer;border-radius: 0.2vw;background-color: #aaa;zoom:0.99;}
+.m-img{object-fit:cover;position: absolute;cursor: pointer;border-radius: 0.2vw;background-color: #aaa;zoom:0.98;}
 .m-192-01 { width: 49vw;top: 30vw;left: 0}
 
 .m-191-01 {width: 24vw;top: 4vw;left: 75vw;}
